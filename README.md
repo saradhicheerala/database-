@@ -16,10 +16,14 @@ database types :
     - knowing while using SQLCMD instead of GUI (like SSMS ide)permissions ,path and environment setup (according requirements of project)
  
   2-handling multiple fomats of databases ex .csv , .xlsv , .sql , .bak
+day 2
 
 4.Quering of data
   -now using simple select cmd just to explore the dataset and retrieve the data by loading 
 5.1.how to connect with databases ,building conncections on various servers (local , remote ,cloud and multiple databases from various servers)
 
-  2.Handling of various datasets formats to work with them in the sql workbench
-  
+  2.Handling of various datasets formats to work with them in the sql workbench using connect in ssms then following corresponding method for local ,remote ,cloud databases.
+
+quering -it is process and knowing structure of writing and template for quality code improvement.
+practice queries 
+1.
